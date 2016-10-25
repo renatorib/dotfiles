@@ -1,0 +1,46 @@
+"*":
+  "chrome-color-picker":
+    General:
+      autoSetColor: true
+      showButtons: true
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "emmet-jsx-css-modules"
+    ]
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "node_modules"
+      "build"
+    ]
+    themes: [
+      "nucleus-dark-ui"
+      "chester-atom-syntax"
+    ]
+  "dark-flat-ui":
+    accentColor: "purple"
+  editor:
+    fontSize: 12
+    showIndentGuide: true
+    softWrapHangingIndent: 2
+  "exception-reporting":
+    userId: "cccb9b3a-c743-1b7e-7af6-2144050c7c4f"
+  "file-icons": {}
+  linter:
+    errorPanelHeight: 32
+  "seti-syntax":
+    themeColor: "Green"
+  "seti-ui":
+    compactView: true
+  "tree-view":
+    hideVcsIgnoredFiles: false
+  welcome:
+    showOnStartup: false
+".html.text.vue":
+  editor:
+    softWrapHangingIndent: 2
